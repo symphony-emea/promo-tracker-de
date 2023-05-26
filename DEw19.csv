@@ -1,0 +1,842 @@
+,Line Type,Plan Type,Data Type,Promo Type,Model,Promo Value,Brand,Week,Date,Retailer,Type
+0,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 7 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+1,NULL,NULL,NULL,Trade in bump up,Google Pixel 7 Pro,240,Google,W19,8th May,Vodafone,Vodafone
+2,NULL,NULL,NULL,Bundle ,Google Pixel 7 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+3,NULL,NULL,NULL,Free Subscription,Google Pixel 7 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+4,NULL,NULL,NULL,Unique Discount,Google Pixel 7 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+5,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 7 Pro,471,Google,W19,8th May,Vodafone,Vodafone
+6,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 6 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+7,NULL,NULL,NULL,Trade in bump up,Google Pixel 6 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+8,NULL,NULL,NULL,Bundle ,Google Pixel 6 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+9,NULL,NULL,NULL,Free Subscription,Google Pixel 6 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+10,NULL,NULL,NULL,Unique Discount,Google Pixel 6 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+11,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 6 Pro,0,Google,W19,8th May,Vodafone,Vodafone
+12,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+13,NULL,NULL,NULL,Trade in bump up,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+14,NULL,NULL,NULL,Bundle ,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+15,NULL,NULL,NULL,Free Subscription,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+16,NULL,NULL,NULL,Unique Discount,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+17,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Pro Max,471,Apple,W19,8th May,Vodafone,Vodafone
+18,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 14 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+19,NULL,NULL,NULL,Trade in bump up,Apple iPhone 14 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+20,NULL,NULL,NULL,Bundle ,Apple iPhone 14 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+21,NULL,NULL,NULL,Free Subscription,Apple iPhone 14 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+22,NULL,NULL,NULL,Unique Discount,Apple iPhone 14 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+23,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Pro,471,Apple,W19,8th May,Vodafone,Vodafone
+24,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 14 Plus,0,Apple,W19,8th May,Vodafone,Vodafone
+25,NULL,NULL,NULL,Trade in bump up,Apple iPhone 14 Plus,0,Apple,W19,8th May,Vodafone,Vodafone
+26,NULL,NULL,NULL,Bundle ,Apple iPhone 14 Plus,0,Apple,W19,8th May,Vodafone,Vodafone
+27,NULL,NULL,NULL,Free Subscription,Apple iPhone 14 Plus,0,Apple,W19,8th May,Vodafone,Vodafone
+28,NULL,NULL,NULL,Unique Discount,Apple iPhone 14 Plus,0,Apple,W19,8th May,Vodafone,Vodafone
+29,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Plus,471,Apple,W19,8th May,Vodafone,Vodafone
+30,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+31,NULL,NULL,NULL,Trade in bump up,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+32,NULL,NULL,NULL,Bundle ,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+33,NULL,NULL,NULL,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+34,NULL,NULL,NULL,Unique Discount,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+35,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Vodafone,Vodafone
+36,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 13 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+37,NULL,NULL,NULL,Trade in bump up,Apple iPhone 13 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+38,NULL,NULL,NULL,Bundle ,Apple iPhone 13 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+39,NULL,NULL,NULL,Free Subscription,Apple iPhone 13 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+40,NULL,NULL,NULL,Unique Discount,Apple iPhone 13 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+41,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13 Pro,0,Apple,W19,8th May,Vodafone,Vodafone
+42,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Vodafone,Vodafone
+43,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Vodafone,Vodafone
+44,NULL,NULL,NULL,Bundle ,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Vodafone,Vodafone
+45,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Vodafone,Vodafone
+46,NULL,NULL,NULL,Unique Discount,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Vodafone,Vodafone
+47,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Vodafone,Vodafone
+48,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Vodafone,Vodafone
+49,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy Z Fold4,120,Samsung,W19,8th May,Vodafone,Vodafone
+50,NULL,NULL,NULL,Bundle ,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Vodafone,Vodafone
+51,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Vodafone,Vodafone
+52,NULL,NULL,NULL,Unique Discount,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Vodafone,Vodafone
+53,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Fold4,471,Samsung,W19,8th May,Vodafone,Vodafone
+54,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+55,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+56,NULL,NULL,NULL,Bundle ,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+57,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+58,NULL,NULL,NULL,Unique Discount,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+59,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+60,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+61,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy S23 Ultra,240,Samsung,W19,8th May,Vodafone,Vodafone
+62,NULL,NULL,NULL,Bundle ,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+63,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+64,NULL,NULL,NULL,Unique Discount,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Vodafone,Vodafone
+65,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23 Ultra,471,Samsung,W19,8th May,Vodafone,Vodafone
+66,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy S22+,0,Samsung,W19,8th May,Vodafone,Vodafone
+67,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy S22+,0,Samsung,W19,8th May,Vodafone,Vodafone
+68,NULL,NULL,NULL,Bundle ,Samsung Galaxy S22+,0,Samsung,W19,8th May,Vodafone,Vodafone
+69,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S22+,0,Samsung,W19,8th May,Vodafone,Vodafone
+70,NULL,NULL,NULL,Unique Discount,Samsung Galaxy S22+,0,Samsung,W19,8th May,Vodafone,Vodafone
+71,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22+,0,Samsung,W19,8th May,Vodafone,Vodafone
+72,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy S23+,0,Samsung,W19,8th May,Vodafone,Vodafone
+73,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy S23+,240,Samsung,W19,8th May,Vodafone,Vodafone
+74,NULL,NULL,NULL,Bundle ,Samsung Galaxy S23+,0,Samsung,W19,8th May,Vodafone,Vodafone
+75,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S23+,0,Samsung,W19,8th May,Vodafone,Vodafone
+76,NULL,NULL,NULL,Unique Discount,Samsung Galaxy S23+,0,Samsung,W19,8th May,Vodafone,Vodafone
+77,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23+,471,Samsung,W19,8th May,Vodafone,Vodafone
+78,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Vodafone,Vodafone
+79,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Vodafone,Vodafone
+80,NULL,NULL,NULL,Bundle ,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Vodafone,Vodafone
+81,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Vodafone,Vodafone
+82,NULL,NULL,NULL,Unique Discount,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Vodafone,Vodafone
+83,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Vodafone,Vodafone
+84,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Vodafone,Vodafone
+85,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy Z Flip4,120,Samsung,W19,8th May,Vodafone,Vodafone
+86,NULL,NULL,NULL,Bundle ,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Vodafone,Vodafone
+87,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Vodafone,Vodafone
+88,NULL,NULL,NULL,Unique Discount,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Vodafone,Vodafone
+89,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Flip4,471,Samsung,W19,8th May,Vodafone,Vodafone
+90,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 7,0,Google,W19,8th May,Vodafone,Vodafone
+91,NULL,NULL,NULL,Trade in bump up,Google Pixel 7,120,Google,W19,8th May,Vodafone,Vodafone
+92,NULL,NULL,NULL,Bundle ,Google Pixel 7,0,Google,W19,8th May,Vodafone,Vodafone
+93,NULL,NULL,NULL,Free Subscription,Google Pixel 7,0,Google,W19,8th May,Vodafone,Vodafone
+94,NULL,NULL,NULL,Unique Discount,Google Pixel 7,0,Google,W19,8th May,Vodafone,Vodafone
+95,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 7,471,Google,W19,8th May,Vodafone,Vodafone
+96,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 6,0,Google,W19,8th May,Vodafone,Vodafone
+97,NULL,NULL,NULL,Trade in bump up,Google Pixel 6,0,Google,W19,8th May,Vodafone,Vodafone
+98,NULL,NULL,NULL,Bundle ,Google Pixel 6,0,Google,W19,8th May,Vodafone,Vodafone
+99,NULL,NULL,NULL,Free Subscription,Google Pixel 6,0,Google,W19,8th May,Vodafone,Vodafone
+100,NULL,NULL,NULL,Unique Discount,Google Pixel 6,0,Google,W19,8th May,Vodafone,Vodafone
+101,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 6,0,Google,W19,8th May,Vodafone,Vodafone
+102,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 14,0,Apple,W19,8th May,Vodafone,Vodafone
+103,NULL,NULL,NULL,Trade in bump up,Apple iPhone 14,0,Apple,W19,8th May,Vodafone,Vodafone
+104,NULL,NULL,NULL,Bundle ,Apple iPhone 14,0,Apple,W19,8th May,Vodafone,Vodafone
+105,NULL,NULL,NULL,Free Subscription,Apple iPhone 14,0,Apple,W19,8th May,Vodafone,Vodafone
+106,NULL,NULL,NULL,Unique Discount,Apple iPhone 14,0,Apple,W19,8th May,Vodafone,Vodafone
+107,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14,471,Apple,W19,8th May,Vodafone,Vodafone
+108,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 13,0,Apple,W19,8th May,Vodafone,Vodafone
+109,NULL,NULL,NULL,Trade in bump up,Apple iPhone 13,0,Apple,W19,8th May,Vodafone,Vodafone
+110,NULL,NULL,NULL,Bundle ,Apple iPhone 13,0,Apple,W19,8th May,Vodafone,Vodafone
+111,NULL,NULL,NULL,Free Subscription,Apple iPhone 13,0,Apple,W19,8th May,Vodafone,Vodafone
+112,NULL,NULL,NULL,Unique Discount,Apple iPhone 13,0,Apple,W19,8th May,Vodafone,Vodafone
+113,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13,471,Apple,W19,8th May,Vodafone,Vodafone
+114,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone 13 mini,0,Apple,W19,8th May,Vodafone,Vodafone
+115,NULL,NULL,NULL,Trade in bump up,Apple iPhone 13 mini,0,Apple,W19,8th May,Vodafone,Vodafone
+116,NULL,NULL,NULL,Bundle ,Apple iPhone 13 mini,0,Apple,W19,8th May,Vodafone,Vodafone
+117,NULL,NULL,NULL,Free Subscription,Apple iPhone 13 mini,0,Apple,W19,8th May,Vodafone,Vodafone
+118,NULL,NULL,NULL,Unique Discount,Apple iPhone 13 mini,0,Apple,W19,8th May,Vodafone,Vodafone
+119,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13 mini,471,Apple,W19,8th May,Vodafone,Vodafone
+120,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy S22,0,Samsung,W19,8th May,Vodafone,Vodafone
+121,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy S22,120,Samsung,W19,8th May,Vodafone,Vodafone
+122,NULL,NULL,NULL,Bundle ,Samsung Galaxy S22,0,Samsung,W19,8th May,Vodafone,Vodafone
+123,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S22,0,Samsung,W19,8th May,Vodafone,Vodafone
+124,NULL,NULL,NULL,Unique Discount,Samsung Galaxy S22,0,Samsung,W19,8th May,Vodafone,Vodafone
+125,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22,471,Samsung,W19,8th May,Vodafone,Vodafone
+126,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy S23,0,Samsung,W19,8th May,Vodafone,Vodafone
+127,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy S23,120,Samsung,W19,8th May,Vodafone,Vodafone
+128,NULL,NULL,NULL,Bundle ,Samsung Galaxy S23,0,Samsung,W19,8th May,Vodafone,Vodafone
+129,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S23,0,Samsung,W19,8th May,Vodafone,Vodafone
+130,NULL,NULL,NULL,Unique Discount,Samsung Galaxy S23,0,Samsung,W19,8th May,Vodafone,Vodafone
+131,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23,471,Samsung,W19,8th May,Vodafone,Vodafone
+132,NULL,NULL,NULL,Voucher Rate Plan,Samsung S21 FE,0,Samsung,W19,8th May,Vodafone,Vodafone
+133,NULL,NULL,NULL,Trade in bump up,Samsung S21 FE,120,Samsung,W19,8th May,Vodafone,Vodafone
+134,NULL,NULL,NULL,Bundle ,Samsung S21 FE,0,Samsung,W19,8th May,Vodafone,Vodafone
+135,NULL,NULL,NULL,Free Subscription,Samsung S21 FE,0,Samsung,W19,8th May,Vodafone,Vodafone
+136,NULL,NULL,NULL,Unique Discount,Samsung S21 FE,0,Samsung,W19,8th May,Vodafone,Vodafone
+137,NULL,NULL,NULL,Trade in Exclusive,Samsung S21 FE,471,Samsung,W19,8th May,Vodafone,Vodafone
+138,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 7a,0,Google,W19,8th May,Vodafone,Vodafone
+139,NULL,NULL,NULL,Trade in bump up,Google Pixel 7a,0,Google,W19,8th May,Vodafone,Vodafone
+140,NULL,NULL,NULL,Bundle ,Google Pixel 7a,99,Google,W19,8th May,Vodafone,Vodafone
+141,NULL,NULL,NULL,Free Subscription,Google Pixel 7a,0,Google,W19,8th May,Vodafone,Vodafone
+142,NULL,NULL,NULL,Unique Discount,Google Pixel 7a,0,Google,W19,8th May,Vodafone,Vodafone
+143,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 7a,471,Google,W19,8th May,Vodafone,Vodafone
+144,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 6a,0,Google,W19,8th May,Vodafone,Vodafone
+145,NULL,NULL,NULL,Trade in bump up,Google Pixel 6a,0,Google,W19,8th May,Vodafone,Vodafone
+146,NULL,NULL,NULL,Bundle ,Google Pixel 6a,0,Google,W19,8th May,Vodafone,Vodafone
+147,NULL,NULL,NULL,Free Subscription,Google Pixel 6a,0,Google,W19,8th May,Vodafone,Vodafone
+148,NULL,NULL,NULL,Unique Discount,Google Pixel 6a,0,Google,W19,8th May,Vodafone,Vodafone
+149,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 6a,471,Google,W19,8th May,Vodafone,Vodafone
+150,NULL,NULL,NULL,Voucher Rate Plan,Apple iPhone SE3,0,Apple,W19,8th May,Vodafone,Vodafone
+151,NULL,NULL,NULL,Trade in bump up,Apple iPhone SE3,60,Apple,W19,8th May,Vodafone,Vodafone
+152,NULL,NULL,NULL,Bundle ,Apple iPhone SE3,0,Apple,W19,8th May,Vodafone,Vodafone
+153,NULL,NULL,NULL,Free Subscription,Apple iPhone SE3,0,Apple,W19,8th May,Vodafone,Vodafone
+154,NULL,NULL,NULL,Unique Discount,Apple iPhone SE3,0,Apple,W19,8th May,Vodafone,Vodafone
+155,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone SE3,471,Apple,W19,8th May,Vodafone,Vodafone
+156,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy A53,0,Samsung,W19,8th May,Vodafone,Vodafone
+157,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy A53,0,Samsung,W19,8th May,Vodafone,Vodafone
+158,NULL,NULL,NULL,Bundle ,Samsung Galaxy A53,0,Samsung,W19,8th May,Vodafone,Vodafone
+159,NULL,NULL,NULL,Free Subscription,Samsung Galaxy A53,0,Samsung,W19,8th May,Vodafone,Vodafone
+160,NULL,NULL,NULL,Unique Discount,Samsung Galaxy A53,0,Samsung,W19,8th May,Vodafone,Vodafone
+161,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy A53,471,Samsung,W19,8th May,Vodafone,Vodafone
+162,NULL,NULL,NULL,Voucher Rate Plan,Samsung Galaxy A54,0,Samsung,W19,8th May,Vodafone,Vodafone
+163,NULL,NULL,NULL,Trade in bump up,Samsung Galaxy A54,120,Samsung,W19,8th May,Vodafone,Vodafone
+164,NULL,NULL,NULL,Bundle ,Samsung Galaxy A54,0,Samsung,W19,8th May,Vodafone,Vodafone
+165,NULL,NULL,NULL,Free Subscription,Samsung Galaxy A54,0,Samsung,W19,8th May,Vodafone,Vodafone
+166,NULL,NULL,NULL,Unique Discount,Samsung Galaxy A54,0,Samsung,W19,8th May,Vodafone,Vodafone
+167,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy A54,471,Samsung,W19,8th May,Vodafone,Vodafone
+168,NULL,NULL,NULL,Trade In Bump Up,Google Pixel 7 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+169,NULL,NULL,NULL,Cashback,Google Pixel 7 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+170,NULL,NULL,NULL,Bundle,Google Pixel 7 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+171,NULL,NULL,NULL,Voucher,Google Pixel 7 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+172,NULL,NULL,NULL,Free Subscription,Google Pixel 7 Pro,27.85,Google,W19,8th May,Deutsch,Deutsch
+173,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 7 Pro,555,Google,W19,8th May,Deutsch,Deutsch
+174,NULL,NULL,NULL,Trade In Bump Up,Google Pixel 6 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+175,NULL,NULL,NULL,Cashback,Google Pixel 6 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+176,NULL,NULL,NULL,Bundle,Google Pixel 6 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+177,NULL,NULL,NULL,Voucher,Google Pixel 6 Pro,0,Google,W19,8th May,Deutsch,Deutsch
+178,NULL,NULL,NULL,Free Subscription,Google Pixel 6 Pro,27.85,Google,W19,8th May,Deutsch,Deutsch
+179,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 6 Pro,555,Google,W19,8th May,Deutsch,Deutsch
+180,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+181,NULL,NULL,NULL,Cashback,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+182,NULL,NULL,NULL,Bundle,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+183,NULL,NULL,NULL,Voucher,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+184,NULL,NULL,NULL,Free Subscription,Apple iPhone 14 Pro Max,100,Apple,W19,8th May,Deutsch,Deutsch
+185,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Pro Max,555,Apple,W19,8th May,Deutsch,Deutsch
+186,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 14 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+187,NULL,NULL,NULL,Cashback,Apple iPhone 14 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+188,NULL,NULL,NULL,Bundle,Apple iPhone 14 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+189,NULL,NULL,NULL,Voucher,Apple iPhone 14 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+190,NULL,NULL,NULL,Free Subscription,Apple iPhone 14 Pro,100,Apple,W19,8th May,Deutsch,Deutsch
+191,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Pro,555,Apple,W19,8th May,Deutsch,Deutsch
+192,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 14 Plus,0,Apple,W19,8th May,Deutsch,Deutsch
+193,NULL,NULL,NULL,Cashback,Apple iPhone 14 Plus,0,Apple,W19,8th May,Deutsch,Deutsch
+194,NULL,NULL,NULL,Bundle,Apple iPhone 14 Plus,0,Apple,W19,8th May,Deutsch,Deutsch
+195,NULL,NULL,NULL,Voucher,Apple iPhone 14 Plus,0,Apple,W19,8th May,Deutsch,Deutsch
+196,NULL,NULL,NULL,Free Subscription,Apple iPhone 14 Plus,100,Apple,W19,8th May,Deutsch,Deutsch
+197,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Plus,555,Apple,W19,8th May,Deutsch,Deutsch
+198,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+199,NULL,NULL,NULL,Cashback,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+200,NULL,NULL,NULL,Bundle,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+201,NULL,NULL,NULL,Voucher,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+202,NULL,NULL,NULL,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Deutsch,Deutsch
+203,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13 Pro Max,555,Apple,W19,8th May,Deutsch,Deutsch
+204,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 13 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+205,NULL,NULL,NULL,Cashback,Apple iPhone 13 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+206,NULL,NULL,NULL,Bundle,Apple iPhone 13 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+207,NULL,NULL,NULL,Voucher,Apple iPhone 13 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+208,NULL,NULL,NULL,Free Subscription,Apple iPhone 13 Pro,0,Apple,W19,8th May,Deutsch,Deutsch
+209,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13 Pro,555,Apple,W19,8th May,Deutsch,Deutsch
+210,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Deutsch,Deutsch
+211,NULL,NULL,NULL,Cashback,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Deutsch,Deutsch
+212,NULL,NULL,NULL,Bundle,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Deutsch,Deutsch
+213,NULL,NULL,NULL,Voucher,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Deutsch,Deutsch
+214,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Deutsch,Deutsch
+215,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Fold3,555,Samsung,W19,8th May,Deutsch,Deutsch
+216,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Deutsch,Deutsch
+217,NULL,NULL,NULL,Cashback,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Deutsch,Deutsch
+218,NULL,NULL,NULL,Bundle,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Deutsch,Deutsch
+219,NULL,NULL,NULL,Voucher,Samsung Galaxy Z Fold4,150,Samsung,W19,8th May,Deutsch,Deutsch
+220,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Deutsch,Deutsch
+221,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Fold4,555,Samsung,W19,8th May,Deutsch,Deutsch
+222,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+223,NULL,NULL,NULL,Cashback,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+224,NULL,NULL,NULL,Bundle,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+225,NULL,NULL,NULL,Voucher,Samsung Galaxy S22 Ultra,150,Samsung,W19,8th May,Deutsch,Deutsch
+226,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+227,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22 Ultra,555,Samsung,W19,8th May,Deutsch,Deutsch
+228,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+229,NULL,NULL,NULL,Cashback,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+230,NULL,NULL,NULL,Bundle,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+231,NULL,NULL,NULL,Voucher,Samsung Galaxy S23 Ultra,150,Samsung,W19,8th May,Deutsch,Deutsch
+232,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Deutsch,Deutsch
+233,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23 Ultra,555,Samsung,W19,8th May,Deutsch,Deutsch
+234,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy S22+,0,Samsung,W19,8th May,Deutsch,Deutsch
+235,NULL,NULL,NULL,Cashback,Samsung Galaxy S22+,0,Samsung,W19,8th May,Deutsch,Deutsch
+236,NULL,NULL,NULL,Bundle,Samsung Galaxy S22+,0,Samsung,W19,8th May,Deutsch,Deutsch
+237,NULL,NULL,NULL,Voucher,Samsung Galaxy S22+,0,Samsung,W19,8th May,Deutsch,Deutsch
+238,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S22+,0,Samsung,W19,8th May,Deutsch,Deutsch
+239,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22+,555,Samsung,W19,8th May,Deutsch,Deutsch
+240,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy S23+,0,Samsung,W19,8th May,Deutsch,Deutsch
+241,NULL,NULL,NULL,Cashback,Samsung Galaxy S23+,0,Samsung,W19,8th May,Deutsch,Deutsch
+242,NULL,NULL,NULL,Bundle,Samsung Galaxy S23+,0,Samsung,W19,8th May,Deutsch,Deutsch
+243,NULL,NULL,NULL,Voucher,Samsung Galaxy S23+,100,Samsung,W19,8th May,Deutsch,Deutsch
+244,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S23+,0,Samsung,W19,8th May,Deutsch,Deutsch
+245,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23+,555,Samsung,W19,8th May,Deutsch,Deutsch
+246,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Deutsch,Deutsch
+247,NULL,NULL,NULL,Cashback,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Deutsch,Deutsch
+248,NULL,NULL,NULL,Bundle,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Deutsch,Deutsch
+249,NULL,NULL,NULL,Voucher,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Deutsch,Deutsch
+250,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Deutsch,Deutsch
+251,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Flip3,555,Samsung,W19,8th May,Deutsch,Deutsch
+252,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Deutsch,Deutsch
+253,NULL,NULL,NULL,Cashback,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Deutsch,Deutsch
+254,NULL,NULL,NULL,Bundle,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Deutsch,Deutsch
+255,NULL,NULL,NULL,Voucher,Samsung Galaxy Z Flip4,100,Samsung,W19,8th May,Deutsch,Deutsch
+256,NULL,NULL,NULL,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Deutsch,Deutsch
+257,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Flip4,555,Samsung,W19,8th May,Deutsch,Deutsch
+258,NULL,NULL,NULL,Trade In Bump Up,Google Pixel 7,0,Google,W19,8th May,Deutsch,Deutsch
+259,NULL,NULL,NULL,Cashback,Google Pixel 7,0,Google,W19,8th May,Deutsch,Deutsch
+260,NULL,NULL,NULL,Bundle,Google Pixel 7,0,Google,W19,8th May,Deutsch,Deutsch
+261,NULL,NULL,NULL,Voucher,Google Pixel 7,0,Google,W19,8th May,Deutsch,Deutsch
+262,NULL,NULL,NULL,Free Subscription,Google Pixel 7,0,Google,W19,8th May,Deutsch,Deutsch
+263,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 7,555,Google,W19,8th May,Deutsch,Deutsch
+264,NULL,NULL,NULL,Trade In Bump Up,Google Pixel 6,0,Google,W19,8th May,Deutsch,Deutsch
+265,NULL,NULL,NULL,Cashback,Google Pixel 6,0,Google,W19,8th May,Deutsch,Deutsch
+266,NULL,NULL,NULL,Bundle,Google Pixel 6,0,Google,W19,8th May,Deutsch,Deutsch
+267,NULL,NULL,NULL,Voucher,Google Pixel 6,0,Google,W19,8th May,Deutsch,Deutsch
+268,NULL,NULL,NULL,Free Subscription,Google Pixel 6,27.85,Google,W19,8th May,Deutsch,Deutsch
+269,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 6,555,Google,W19,8th May,Deutsch,Deutsch
+270,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 14,0,Apple,W19,8th May,Deutsch,Deutsch
+271,NULL,NULL,NULL,Cashback,Apple iPhone 14,0,Apple,W19,8th May,Deutsch,Deutsch
+272,NULL,NULL,NULL,Bundle,Apple iPhone 14,0,Apple,W19,8th May,Deutsch,Deutsch
+273,NULL,NULL,NULL,Voucher,Apple iPhone 14,0,Apple,W19,8th May,Deutsch,Deutsch
+274,NULL,NULL,NULL,Free Subscription,Apple iPhone 14,100,Apple,W19,8th May,Deutsch,Deutsch
+275,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 14,555,Apple,W19,8th May,Deutsch,Deutsch
+276,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 13,0,Apple,W19,8th May,Deutsch,Deutsch
+277,NULL,NULL,NULL,Cashback,Apple iPhone 13,0,Apple,W19,8th May,Deutsch,Deutsch
+278,NULL,NULL,NULL,Bundle,Apple iPhone 13,0,Apple,W19,8th May,Deutsch,Deutsch
+279,NULL,NULL,NULL,Voucher,Apple iPhone 13,0,Apple,W19,8th May,Deutsch,Deutsch
+280,NULL,NULL,NULL,Free Subscription,Apple iPhone 13,100,Apple,W19,8th May,Deutsch,Deutsch
+281,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13,555,Apple,W19,8th May,Deutsch,Deutsch
+282,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone 13 mini,0,Apple,W19,8th May,Deutsch,Deutsch
+283,NULL,NULL,NULL,Cashback,Apple iPhone 13 mini,0,Apple,W19,8th May,Deutsch,Deutsch
+284,NULL,NULL,NULL,Bundle,Apple iPhone 13 mini,0,Apple,W19,8th May,Deutsch,Deutsch
+285,NULL,NULL,NULL,Voucher,Apple iPhone 13 mini,0,Apple,W19,8th May,Deutsch,Deutsch
+286,NULL,NULL,NULL,Free Subscription,Apple iPhone 13 mini,0,Apple,W19,8th May,Deutsch,Deutsch
+287,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone 13 mini,555,Apple,W19,8th May,Deutsch,Deutsch
+288,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy S22,0,Samsung,W19,8th May,Deutsch,Deutsch
+289,NULL,NULL,NULL,Cashback,Samsung Galaxy S22,0,Samsung,W19,8th May,Deutsch,Deutsch
+290,NULL,NULL,NULL,Bundle,Samsung Galaxy S22,0,Samsung,W19,8th May,Deutsch,Deutsch
+291,NULL,NULL,NULL,Voucher,Samsung Galaxy S22,100,Samsung,W19,8th May,Deutsch,Deutsch
+292,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S22,0,Samsung,W19,8th May,Deutsch,Deutsch
+293,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22,555,Samsung,W19,8th May,Deutsch,Deutsch
+294,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy S23,0,Samsung,W19,8th May,Deutsch,Deutsch
+295,NULL,NULL,NULL,Cashback,Samsung Galaxy S23,0,Samsung,W19,8th May,Deutsch,Deutsch
+296,NULL,NULL,NULL,Bundle,Samsung Galaxy S23,0,Samsung,W19,8th May,Deutsch,Deutsch
+297,NULL,NULL,NULL,Voucher,Samsung Galaxy S23,100,Samsung,W19,8th May,Deutsch,Deutsch
+298,NULL,NULL,NULL,Free Subscription,Samsung Galaxy S23,0,Samsung,W19,8th May,Deutsch,Deutsch
+299,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23,555,Samsung,W19,8th May,Deutsch,Deutsch
+300,NULL,NULL,NULL,Trade In Bump Up,Samsung S21 FE,0,Samsung,W19,8th May,Deutsch,Deutsch
+301,NULL,NULL,NULL,Cashback,Samsung S21 FE,0,Samsung,W19,8th May,Deutsch,Deutsch
+302,NULL,NULL,NULL,Bundle,Samsung S21 FE,0,Samsung,W19,8th May,Deutsch,Deutsch
+303,NULL,NULL,NULL,Voucher,Samsung S21 FE,0,Samsung,W19,8th May,Deutsch,Deutsch
+304,NULL,NULL,NULL,Free Subscription,Samsung S21 FE,0,Samsung,W19,8th May,Deutsch,Deutsch
+305,NULL,NULL,NULL,Trade in Exclusive,Samsung S21 FE,555,Samsung,W19,8th May,Deutsch,Deutsch
+306,NULL,NULL,NULL,Trade In Bump Up,Google Pixel 7a,0,Google,W19,8th May,Deutsch,Deutsch
+307,NULL,NULL,NULL,Cashback,Google Pixel 7a,0,Google,W19,8th May,Deutsch,Deutsch
+308,NULL,NULL,NULL,Bundle,Google Pixel 7a,99,Google,W19,8th May,Deutsch,Deutsch
+309,NULL,NULL,NULL,Voucher,Google Pixel 7a,0,Google,W19,8th May,Deutsch,Deutsch
+310,NULL,NULL,NULL,Free Subscription,Google Pixel 7a,0,Google,W19,8th May,Deutsch,Deutsch
+311,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 7a,555,Google,W19,8th May,Deutsch,Deutsch
+312,NULL,NULL,NULL,Trade In Bump Up,Google Pixel 6a,0,Google,W19,8th May,Deutsch,Deutsch
+313,NULL,NULL,NULL,Cashback,Google Pixel 6a,0,Google,W19,8th May,Deutsch,Deutsch
+314,NULL,NULL,NULL,Bundle,Google Pixel 6a,0,Google,W19,8th May,Deutsch,Deutsch
+315,NULL,NULL,NULL,Voucher,Google Pixel 6a,0,Google,W19,8th May,Deutsch,Deutsch
+316,NULL,NULL,NULL,Free Subscription,Google Pixel 6a,0,Google,W19,8th May,Deutsch,Deutsch
+317,NULL,NULL,NULL,Trade in Exclusive,Google Pixel 6a,555,Google,W19,8th May,Deutsch,Deutsch
+318,NULL,NULL,NULL,Trade In Bump Up,Apple iPhone SE3,0,Apple,W19,8th May,Deutsch,Deutsch
+319,NULL,NULL,NULL,Cashback,Apple iPhone SE3,0,Apple,W19,8th May,Deutsch,Deutsch
+320,NULL,NULL,NULL,Bundle,Apple iPhone SE3,0,Apple,W19,8th May,Deutsch,Deutsch
+321,NULL,NULL,NULL,Voucher,Apple iPhone SE3,0,Apple,W19,8th May,Deutsch,Deutsch
+322,NULL,NULL,NULL,Free Subscription,Apple iPhone SE3,0,Apple,W19,8th May,Deutsch,Deutsch
+323,NULL,NULL,NULL,Trade in Exclusive,Apple iPhone SE3,555,Apple,W19,8th May,Deutsch,Deutsch
+324,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy A53,0,Samsung,W19,8th May,Deutsch,Deutsch
+325,NULL,NULL,NULL,Cashback,Samsung Galaxy A53,0,Samsung,W19,8th May,Deutsch,Deutsch
+326,NULL,NULL,NULL,Bundle,Samsung Galaxy A53,0,Samsung,W19,8th May,Deutsch,Deutsch
+327,NULL,NULL,NULL,Voucher,Samsung Galaxy A53,0,Samsung,W19,8th May,Deutsch,Deutsch
+328,NULL,NULL,NULL,Free Subscription,Samsung Galaxy A53,0,Samsung,W19,8th May,Deutsch,Deutsch
+329,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy A53,555,Samsung,W19,8th May,Deutsch,Deutsch
+330,NULL,NULL,NULL,Trade In Bump Up,Nothing Phone 1,0,Nothing,W19,8th May,Deutsch,Deutsch
+331,NULL,NULL,NULL,Cashback,Nothing Phone 1,0,Nothing,W19,8th May,Deutsch,Deutsch
+332,NULL,NULL,NULL,Bundle,Nothing Phone 1,0,Nothing,W19,8th May,Deutsch,Deutsch
+333,NULL,NULL,NULL,Voucher,Nothing Phone 1,0,Nothing,W19,8th May,Deutsch,Deutsch
+334,NULL,NULL,NULL,Free Subscription,Nothing Phone 1,0,Nothing,W19,8th May,Deutsch,Deutsch
+335,NULL,NULL,NULL,Trade in Exclusive,Nothing Phone 1,555,Nothing,W19,8th May,Deutsch,Deutsch
+336,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy A34,0,Samsung,W19,8th May,Deutsch,Deutsch
+337,NULL,NULL,NULL,Cashback,Samsung Galaxy A34,0,Samsung,W19,8th May,Deutsch,Deutsch
+338,NULL,NULL,NULL,Bundle,Samsung Galaxy A34,0,Samsung,W19,8th May,Deutsch,Deutsch
+339,NULL,NULL,NULL,Voucher,Samsung Galaxy A34,0,Samsung,W19,8th May,Deutsch,Deutsch
+340,NULL,NULL,NULL,Free Subscription,Samsung Galaxy A34,0,Samsung,W19,8th May,Deutsch,Deutsch
+341,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy A34,555,Samsung,W19,8th May,Deutsch,Deutsch
+342,NULL,NULL,NULL,Trade In Bump Up,Samsung Galaxy A54,0,Samsung,W19,8th May,Deutsch,Deutsch
+343,NULL,NULL,NULL,Cashback,Samsung Galaxy A54,0,Samsung,W19,8th May,Deutsch,Deutsch
+344,NULL,NULL,NULL,Bundle,Samsung Galaxy A54,0,Samsung,W19,8th May,Deutsch,Deutsch
+345,NULL,NULL,NULL,Voucher,Samsung Galaxy A54,100,Samsung,W19,8th May,Deutsch,Deutsch
+346,NULL,NULL,NULL,Free Subscription,Samsung Galaxy A54,0,Samsung,W19,8th May,Deutsch,Deutsch
+347,NULL,NULL,NULL,Trade in Exclusive,Samsung Galaxy A54,555,Samsung,W19,8th May,Deutsch,Deutsch
+348,Smartphones without Contract,NULL,NULL,Bundle Deal,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+349,Smartphones without Contract,NULL,NULL,Free Subscription,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+350,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+351,Smartphones without Contract,NULL,NULL,Trade In ,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+352,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+353,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+354,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+355,Smartphones with contract,NULL,Vodafone,Switcher,Google Pixel 7 Pro,50,Google,W19,8th May,Mediamarkt,Mediamarkt
+356,Smartphones with contract,NULL,O2,Free Merchandise,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+357,Smartphones with contract,NULL,O2,Bundle Deal,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+358,Smartphones with contract,NULL,O2,Free Subscription,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+359,Smartphones with contract,NULL,O2,Switcher,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+360,Smartphones with contract,NULL,Telekom,Free Merchandise,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+361,Smartphones with contract,NULL,Telekom,Bundle Deal,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+362,Smartphones with contract,NULL,Telekom,Free Subscription,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+363,Smartphones with contract,NULL,Telekom,Switcher,Google Pixel 7 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+364,Trade in Exclusive,NULL,NULL,NULL,Google Pixel 7 Pro,552,Google,W19,8th May,Mediamarkt,Mediamarkt
+365,Smartphones without Contract,NULL,NULL,Bundle Deal,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+366,Smartphones without Contract,NULL,NULL,Free Subscription,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+367,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+368,Smartphones without Contract,NULL,NULL,Trade In ,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+369,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+370,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+371,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+372,Smartphones with contract,NULL,Vodafone,Switcher,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+373,Smartphones with contract,NULL,O2,Free Merchandise,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+374,Smartphones with contract,NULL,O2,Bundle Deal,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+375,Smartphones with contract,NULL,O2,Free Subscription,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+376,Smartphones with contract,NULL,O2,Switcher,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+377,Smartphones with contract,NULL,Telekom,Free Merchandise,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+378,Smartphones with contract,NULL,Telekom,Bundle Deal,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+379,Smartphones with contract,NULL,Telekom,Free Subscription,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+380,Smartphones with contract,NULL,Telekom,Switcher,Google Pixel 6 Pro,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+381,Trade in Exclusive,NULL,NULL,NULL,Google Pixel 6 Pro,552,Google,W19,8th May,Mediamarkt,Mediamarkt
+382,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+383,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 14 Pro Max,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+384,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+385,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+386,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+387,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+388,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+389,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 14 Pro Max,50,Apple,W19,8th May,Mediamarkt,Mediamarkt
+390,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+391,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+392,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+393,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+394,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+395,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+396,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+397,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 14 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+398,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 14 Pro Max,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+399,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+400,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 14 Pro,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+401,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+402,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+403,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+404,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+405,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+406,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 14 Pro,50,Apple,W19,8th May,Mediamarkt,Mediamarkt
+407,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+408,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+409,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+410,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+411,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+412,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+413,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+414,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 14 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+415,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 14 Pro,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+416,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+417,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 14 Plus,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+418,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+419,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+420,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+421,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+422,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+423,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 14 Plus,50,Apple,W19,8th May,Mediamarkt,Mediamarkt
+424,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+425,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+426,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+427,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+428,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+429,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+430,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+431,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 14 Plus,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+432,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 14 Plus,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+433,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+434,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+435,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+436,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+437,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+438,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+439,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+440,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+441,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+442,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+443,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+444,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+445,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+446,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+447,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+448,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+449,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 13 Pro Max,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+450,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+451,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 13 Pro,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+452,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+453,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+454,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+455,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+456,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+457,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+458,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+459,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+460,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+461,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+462,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+463,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+464,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+465,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 13 Pro,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+466,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 13 Pro,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+467,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+468,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+469,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+470,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+471,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+472,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+473,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+474,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+475,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+476,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+477,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+478,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+479,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+480,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+481,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+482,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy Z Fold3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+483,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy Z Fold3,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+484,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+485,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy Z Fold4,89.9,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+486,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+487,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+488,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+489,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+490,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+491,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy Z Fold4,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+492,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+493,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+494,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+495,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+496,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+497,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+498,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+499,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy Z Fold4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+500,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy Z Fold4,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+501,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+502,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+503,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+504,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+505,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+506,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+507,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+508,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S22 Ultra,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+509,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+510,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+511,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+512,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+513,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+514,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+515,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+516,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy S22 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+517,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy S22 Ultra,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+518,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+519,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+520,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+521,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+522,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+523,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23 Ultra,314,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+524,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+525,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S23 Ultra,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+526,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+527,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+528,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+529,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+530,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+531,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+532,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+533,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy S23 Ultra,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+534,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy S23 Ultra,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+535,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+536,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+537,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+538,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+539,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+540,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+541,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+542,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+543,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+544,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+545,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+546,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+547,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+548,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+549,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+550,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy S22+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+551,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy S22+,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+552,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+553,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+554,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+555,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+556,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+557,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23+,314,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+558,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+559,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S23+,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+560,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+561,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+562,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+563,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+564,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+565,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+566,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+567,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy S23+,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+568,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy S23+,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+569,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+570,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+571,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+572,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+573,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+574,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+575,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+576,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+577,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+578,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+579,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+580,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+581,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+582,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+583,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+584,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy Z Flip3,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+585,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy Z Flip3,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+586,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+587,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy Z Flip4,89.9,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+588,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+589,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+590,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+591,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+592,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+593,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy Z Flip4,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+594,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+595,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+596,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+597,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+598,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+599,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+600,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+601,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy Z Flip4,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+602,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy Z Flip4,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+603,Smartphones without Contract,NULL,NULL,Bundle Deal,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+604,Smartphones without Contract,NULL,NULL,Free Subscription,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+605,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+606,Smartphones without Contract,NULL,NULL,Trade In ,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+607,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+608,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+609,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+610,Smartphones with contract,NULL,Vodafone,Switcher,Google Pixel 7,50,Google,W19,8th May,Mediamarkt,Mediamarkt
+611,Smartphones with contract,NULL,O2,Free Merchandise,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+612,Smartphones with contract,NULL,O2,Bundle Deal,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+613,Smartphones with contract,NULL,O2,Free Subscription,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+614,Smartphones with contract,NULL,O2,Switcher,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+615,Smartphones with contract,NULL,Telekom,Free Merchandise,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+616,Smartphones with contract,NULL,Telekom,Bundle Deal,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+617,Smartphones with contract,NULL,Telekom,Free Subscription,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+618,Smartphones with contract,NULL,Telekom,Switcher,Google Pixel 7,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+619,Trade in Exclusive,NULL,NULL,NULL,Google Pixel 7,552,Google,W19,8th May,Mediamarkt,Mediamarkt
+620,Smartphones without Contract,NULL,NULL,Bundle Deal,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+621,Smartphones without Contract,NULL,NULL,Free Subscription,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+622,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+623,Smartphones without Contract,NULL,NULL,Trade In ,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+624,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+625,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+626,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+627,Smartphones with contract,NULL,Vodafone,Switcher,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+628,Smartphones with contract,NULL,O2,Free Merchandise,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+629,Smartphones with contract,NULL,O2,Bundle Deal,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+630,Smartphones with contract,NULL,O2,Free Subscription,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+631,Smartphones with contract,NULL,O2,Switcher,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+632,Smartphones with contract,NULL,Telekom,Free Merchandise,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+633,Smartphones with contract,NULL,Telekom,Bundle Deal,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+634,Smartphones with contract,NULL,Telekom,Free Subscription,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+635,Smartphones with contract,NULL,Telekom,Switcher,Google Pixel 6,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+636,Trade in Exclusive,NULL,NULL,NULL,Google Pixel 6,552,Google,W19,8th May,Mediamarkt,Mediamarkt
+637,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+638,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 14,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+639,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+640,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+641,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+642,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+643,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+644,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 14,50,Apple,W19,8th May,Mediamarkt,Mediamarkt
+645,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+646,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+647,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+648,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+649,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+650,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+651,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+652,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 14,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+653,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 14,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+654,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+655,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 13,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+656,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+657,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+658,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+659,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+660,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+661,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 13,50,Apple,W19,8th May,Mediamarkt,Mediamarkt
+662,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+663,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 13,109,Apple,W19,8th May,Mediamarkt,Mediamarkt
+664,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+665,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+666,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+667,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+668,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+669,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 13,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+670,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 13,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+671,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+672,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 13 mini,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+673,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+674,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+675,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+676,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+677,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+678,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+679,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+680,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+681,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+682,Smartphones with contract,NULL,O2,Switcher,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+683,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+684,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+685,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+686,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone 13 mini,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+687,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone 13 mini,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+688,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+689,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+690,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+691,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+692,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+693,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+694,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+695,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S22,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+696,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+697,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+698,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+699,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+700,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+701,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+702,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+703,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy S22,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+704,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy S22,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+705,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+706,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+707,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+708,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+709,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+710,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+711,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+712,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S23,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+713,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+714,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S23,221,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+715,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+716,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+717,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+718,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+719,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+720,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy S23,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+721,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy S23,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+722,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+723,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+724,Smartphones without Contract,NULL,NULL,Gift Card,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+725,Smartphones without Contract,NULL,NULL,Trade In ,Samsung S21 FE,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+726,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+727,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+728,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+729,Smartphones with contract,NULL,Vodafone,Switcher,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+730,Smartphones with contract,NULL,O2,Free Merchandise,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+731,Smartphones with contract,NULL,O2,Bundle Deal,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+732,Smartphones with contract,NULL,O2,Free Subscription,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+733,Smartphones with contract,NULL,O2,Switcher,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+734,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+735,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+736,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+737,Smartphones with contract,NULL,Telekom,Switcher,Samsung S21 FE,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+738,Trade in Exclusive,NULL,NULL,NULL,Samsung S21 FE,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+739,Smartphones without Contract,NULL,NULL,Bundle Deal,Google Pixel 7a,99,Google,W19,8th May,Mediamarkt,Mediamarkt
+740,Smartphones without Contract,NULL,NULL,Free Subscription,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+741,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+742,Smartphones without Contract,NULL,NULL,Trade In ,Google Pixel 7a,100,Google,W19,8th May,Mediamarkt,Mediamarkt
+743,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+744,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+745,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+746,Smartphones with contract,NULL,Vodafone,Switcher,Google Pixel 7a,50,Google,W19,8th May,Mediamarkt,Mediamarkt
+747,Smartphones with contract,NULL,O2,Free Merchandise,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+748,Smartphones with contract,NULL,O2,Bundle Deal,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+749,Smartphones with contract,NULL,O2,Free Subscription,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+750,Smartphones with contract,NULL,O2,Switcher,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+751,Smartphones with contract,NULL,Telekom,Free Merchandise,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+752,Smartphones with contract,NULL,Telekom,Bundle Deal,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+753,Smartphones with contract,NULL,Telekom,Free Subscription,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+754,Smartphones with contract,NULL,Telekom,Switcher,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+755,Trade in Exclusive,NULL,NULL,NULL,Google Pixel 7a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+756,Smartphones without Contract,NULL,NULL,Bundle Deal,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+757,Smartphones without Contract,NULL,NULL,Free Subscription,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+758,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+759,Smartphones without Contract,NULL,NULL,Trade In ,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+760,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+761,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+762,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+763,Smartphones with contract,NULL,Vodafone,Switcher,Google Pixel 6a,50,Google,W19,8th May,Mediamarkt,Mediamarkt
+764,Smartphones with contract,NULL,O2,Free Merchandise,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+765,Smartphones with contract,NULL,O2,Bundle Deal,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+766,Smartphones with contract,NULL,O2,Free Subscription,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+767,Smartphones with contract,NULL,O2,Switcher,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+768,Smartphones with contract,NULL,Telekom,Free Merchandise,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+769,Smartphones with contract,NULL,Telekom,Bundle Deal,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+770,Smartphones with contract,NULL,Telekom,Free Subscription,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+771,Smartphones with contract,NULL,Telekom,Switcher,Google Pixel 6a,0,Google,W19,8th May,Mediamarkt,Mediamarkt
+772,Trade in Exclusive,NULL,NULL,NULL,Google Pixel 6a,552,Google,W19,8th May,Mediamarkt,Mediamarkt
+773,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+774,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone SE3,117.83,Apple,W19,8th May,Mediamarkt,Mediamarkt
+775,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+776,Smartphones without Contract,NULL,NULL,Trade In ,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+777,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+778,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+779,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+780,Smartphones with contract,NULL,Vodafone,Switcher,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+781,Smartphones with contract,NULL,O2,Free Merchandise,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+782,Smartphones with contract,NULL,O2,Bundle Deal,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+783,Smartphones with contract,NULL,O2,Free Subscription,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+784,Smartphones with contract,NULL,O2,Switcher,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+785,Smartphones with contract,NULL,Telekom,Free Merchandise,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+786,Smartphones with contract,NULL,Telekom,Bundle Deal,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+787,Smartphones with contract,NULL,Telekom,Free Subscription,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+788,Smartphones with contract,NULL,Telekom,Switcher,Apple iPhone SE3,0,Apple,W19,8th May,Mediamarkt,Mediamarkt
+789,Trade in Exclusive,NULL,NULL,NULL,Apple iPhone SE3,552,Apple,W19,8th May,Mediamarkt,Mediamarkt
+790,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+791,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+792,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+793,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+794,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+795,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+796,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+797,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+798,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+799,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+800,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+801,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+802,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+803,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+804,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+805,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy A53,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+806,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy A53,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+807,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+808,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+809,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+810,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy A34,25,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+811,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+812,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+813,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+814,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy A34,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+815,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+816,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+817,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+818,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+819,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+820,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+821,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+822,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy A34,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+823,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy A34,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+824,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+825,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+826,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+827,Smartphones without Contract,NULL,NULL,Trade In ,Samsung Galaxy A54,75,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+828,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+829,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+830,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+831,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy A54,50,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+832,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+833,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+834,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+835,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+836,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+837,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+838,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+839,Smartphones with contract,NULL,Telekom,Switcher,Samsung Galaxy A54,0,Samsung,W19,8th May,Mediamarkt,Mediamarkt
+840,Trade in Exclusive,NULL,NULL,NULL,Samsung Galaxy A54,552,Samsung,W19,8th May,Mediamarkt,Mediamarkt
