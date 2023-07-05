@@ -1,4 +1,4 @@
-,Line Type,Plan Type,Data Type,Promo Type,Model,Promo Value,Brand,Week,Date,Retailer,Type
+,Line Type,Plan Type,Data Type,Promo Type,Model,0,Brand,Week,Date,Retailer,Type
 0,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 7 Pro,200,Google,W1,02-01-2023,Vodafone,Vodafone
 1,NULL,NULL,NULL,Trade in bump up,Google Pixel 7 Pro,0,Google,W1,02-01-2023,Vodafone,Vodafone
 2,NULL,NULL,NULL,Bundle ,Google Pixel 7 Pro,0,Google,W1,02-01-2023,Vodafone,Vodafone
@@ -24495,7 +24495,7 @@
 275,New Line ,Regular Plan ,Unlimited Data,Merchandise,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Vodafone,Vodafone
 276,New Line ,Regular Plan ,Unlimited Data,Gift Card,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Vodafone,Vodafone
 277,New Line ,Regular Plan ,Unlimited Data,Free Subscription,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Vodafone,Vodafone
-278,New Line ,Regular Plan ,Unlimited Data,Cashback,Samsung Galaxy S23,200,Samsung,27,03-07-2023,Vodafone,Vodafone
+278,New Line ,Regular Plan ,Unlimited Data,Cashback,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Vodafone,Vodafone
 279,New Line ,Regular Plan ,Unlimited Data,Tradein Bumpup,Samsung Galaxy S23,120,Samsung,27,03-07-2023,Vodafone,Vodafone
 280,New Line ,Regular Plan ,Sim - Free,WoW Price Change,Samsung S21 FE,0,Samsung,27,03-07-2023,Vodafone,Vodafone
 281,New Line ,Regular Plan ,Sim - Free,Rate Plan Discount(Max),Samsung S21 FE,0,Samsung,27,03-07-2023,Vodafone,Vodafone
@@ -24607,7 +24607,7 @@
 387,New Line ,Regular Plan ,Unlimited Data,Merchandise,Samsung Galaxy A54,0,Samsung,27,03-07-2023,Vodafone,Vodafone
 388,New Line ,Regular Plan ,Unlimited Data,Gift Card,Samsung Galaxy A54,0,Samsung,27,03-07-2023,Vodafone,Vodafone
 389,New Line ,Regular Plan ,Unlimited Data,Free Subscription,Samsung Galaxy A54,0,Samsung,27,03-07-2023,Vodafone,Vodafone
-390,New Line ,Regular Plan ,Unlimited Data,Cashback,Samsung Galaxy A54,150,Samsung,27,03-07-2023,Vodafone,Vodafone
+390,New Line ,Regular Plan ,Unlimited Data,Cashback,Samsung Galaxy A54,0,Samsung,27,03-07-2023,Vodafone,Vodafone
 391,New Line ,Regular Plan ,Unlimited Data,Tradein Bumpup,Samsung Galaxy A54,120,Samsung,27,03-07-2023,Vodafone,Vodafone
 392,New Line ,Regular Plan ,Sim - Free,WoW Price Change,Samsung Galaxy A34,10,Samsung,27,03-07-2023,Vodafone,Vodafone
 393,New Line ,Regular Plan ,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy A34,0,Samsung,27,03-07-2023,Vodafone,Vodafone
@@ -25226,7 +25226,7 @@
 1010,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy Z Flip3,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1011,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1013,Smartphones without Contract,NULL,NULL,WoW Price Change,Samsung Galaxy Z Flip4,370,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
-1014,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Samsung Galaxy Z Flip4,470,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
+1014,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Samsung Galaxy Z Flip4,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1015,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy Z Flip4,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1016,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy Z Flip4,90,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1017,Smartphones without Contract,NULL,NULL,CashBack Deduction,Samsung Galaxy Z Flip4,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
@@ -25277,7 +25277,7 @@
 1064,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1065,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S23 Ultra,100,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1066,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S23 Ultra,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
-1067,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S23 Ultra,160,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
+1067,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S23 Ultra,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1068,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1070,Smartphones without Contract,NULL,NULL,WoW Price Change,Samsung Galaxy S22+,160,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1071,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Samsung Galaxy S22+,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
@@ -25453,7 +25453,7 @@
 1250,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S22,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1251,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S22,50,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1252,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S22,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
-1253,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S22,479,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
+1253,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S22,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1254,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S22,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1255,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S22,100,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1256,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S22,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
@@ -25467,15 +25467,15 @@
 1265,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1266,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1267,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
-1268,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23,160,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
+1268,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1269,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1270,Smartphones with contract,NULL,Vodafone,Switcher,Samsung Galaxy S23,50,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1271,Smartphones with contract,NULL,O2,Free Merchandise,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
-1272,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S23,160,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
+1272,Smartphones with contract,NULL,O2,Bundle Deal,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1273,Smartphones with contract,NULL,O2,Free Subscription,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1274,Smartphones with contract,NULL,O2,Switcher,Samsung Galaxy S23,100,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1275,Smartphones with contract,NULL,Telekom,Free Merchandise,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
-1276,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S23,160,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
+1276,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1277,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy S23,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1279,Smartphones without Contract,NULL,NULL,WoW Price Change,Samsung S21 FE,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1280,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Samsung S21 FE,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
@@ -25501,7 +25501,7 @@
 1301,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone 14,118,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1302,Smartphones without Contract,NULL,NULL,CashBack Deduction,Apple iPhone 14,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1303,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
-1304,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 14,60,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
+1304,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 14,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1305,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1306,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1307,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
@@ -25622,7 +25622,7 @@
 1428,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy A54,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1429,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy A54,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1431,Smartphones without Contract,NULL,NULL,WoW Price Change,Samsung Galaxy A34,56,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
-1432,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Samsung Galaxy A34,90,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
+1432,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Samsung Galaxy A34,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1433,Smartphones without Contract,NULL,NULL,Bundle Deal,Samsung Galaxy A34,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1434,Smartphones without Contract,NULL,NULL,Free Subscription,Samsung Galaxy A34,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1435,Smartphones without Contract,NULL,NULL,CashBack Deduction,Samsung Galaxy A34,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
@@ -25640,7 +25640,7 @@
 1447,Smartphones with contract,NULL,Telekom,Bundle Deal,Samsung Galaxy A34,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1448,Smartphones with contract,NULL,Telekom,Free Subscription,Samsung Galaxy A34,0,Samsung,27,03-07-2023,Mediamarkt,Mediamarkt
 1450,Smartphones without Contract,NULL,NULL,WoW Price Change,Apple iPhone SE3,20,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
-1451,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Apple iPhone SE3,70,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
+1451,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Apple iPhone SE3,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1452,Smartphones without Contract,NULL,NULL,Bundle Deal,Apple iPhone SE3,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1453,Smartphones without Contract,NULL,NULL,Free Subscription,Apple iPhone SE3,118,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
 1454,Smartphones without Contract,NULL,NULL,CashBack Deduction,Apple iPhone SE3,0,Apple,27,03-07-2023,Mediamarkt,Mediamarkt
