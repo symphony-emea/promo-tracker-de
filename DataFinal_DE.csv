@@ -1,4 +1,3 @@
-,Line Type,Plan Type,Data Type,Promo Type,Model,0,Brand,Week,Date,Retailer,Type
 0,NULL,NULL,NULL,Voucher Rate Plan,Google Pixel 7 Pro,200,Google,W1,02-01-2023,Vodafone,Vodafone
 1,NULL,NULL,NULL,Trade in bump up,Google Pixel 7 Pro,0,Google,W1,02-01-2023,Vodafone,Vodafone
 2,NULL,NULL,NULL,Bundle ,Google Pixel 7 Pro,0,Google,W1,02-01-2023,Vodafone,Vodafone
@@ -31177,7 +31176,6 @@
 10,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Google Pixel 7 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
 11,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Google Pixel 7 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
 12,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Google Pixel 7 Pro,240,Google,32,07-08-2023,Vodafone,Vodafone
-13,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Google Pixel 7 Pro,438,Google,32,07-08-2023,Vodafone,Vodafone
 14,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Google Pixel 6 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
 15,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Google Pixel 6 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
 16,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Google Pixel 6 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
@@ -31191,7 +31189,6 @@
 24,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Google Pixel 6 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
 25,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Google Pixel 6 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
 26,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Google Pixel 6 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
-27,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Google Pixel 6 Pro,0,Google,32,07-08-2023,Vodafone,Vodafone
 28,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Google Pixel Fold,0,Google,32,07-08-2023,Vodafone,Vodafone
 29,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Google Pixel Fold,0,Google,32,07-08-2023,Vodafone,Vodafone
 30,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Google Pixel Fold,0,Google,32,07-08-2023,Vodafone,Vodafone
@@ -31205,7 +31202,6 @@
 38,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Google Pixel Fold,0,Google,32,07-08-2023,Vodafone,Vodafone
 39,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Google Pixel Fold,0,Google,32,07-08-2023,Vodafone,Vodafone
 40,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Google Pixel Fold,0,Google,32,07-08-2023,Vodafone,Vodafone
-41,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Google Pixel Fold,0,Google,32,07-08-2023,Vodafone,Vodafone
 42,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 43,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 44,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31219,7 +31215,6 @@
 52,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 53,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 54,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Fold5,240,Samsung,32,07-08-2023,Vodafone,Vodafone
-55,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 56,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 57,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 58,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31233,7 +31228,6 @@
 66,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 67,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 68,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Flip5,240,Samsung,32,07-08-2023,Vodafone,Vodafone
-69,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 70,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 71,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 72,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31247,7 +31241,6 @@
 80,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 81,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 82,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
-83,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 84,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 85,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 86,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31261,7 +31254,6 @@
 94,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 95,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 96,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Fold4,120,Samsung,32,07-08-2023,Vodafone,Vodafone
-97,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy Z Fold4,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 98,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 99,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 100,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31275,7 +31267,6 @@
 108,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 109,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 110,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
-111,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 112,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 113,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 114,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31289,7 +31280,6 @@
 122,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 123,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 124,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Flip4,120,Samsung,32,07-08-2023,Vodafone,Vodafone
-125,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy Z Flip4,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 126,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 127,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 128,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31303,7 +31293,6 @@
 136,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 137,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 138,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
-139,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 140,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 141,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 142,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31317,7 +31306,6 @@
 150,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 151,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 152,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy S23 Ultra,240,Samsung,32,07-08-2023,Vodafone,Vodafone
-153,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy S23 Ultra,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 154,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 155,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 156,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31331,7 +31319,6 @@
 164,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 165,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 166,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
-167,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 168,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 169,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 170,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31345,7 +31332,6 @@
 178,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 179,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 180,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy S23+,240,Samsung,32,07-08-2023,Vodafone,Vodafone
-181,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy S23+,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 182,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 183,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 184,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31359,7 +31345,6 @@
 192,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 193,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 194,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
-195,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 14 Pro Max,438,Apple,32,07-08-2023,Vodafone,Vodafone
 196,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 197,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 198,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31373,7 +31358,6 @@
 206,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 207,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 208,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
-209,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 14 Pro,438,Apple,32,07-08-2023,Vodafone,Vodafone
 210,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Vodafone,Vodafone
 211,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Vodafone,Vodafone
 212,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31387,7 +31371,6 @@
 220,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Vodafone,Vodafone
 221,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Vodafone,Vodafone
 222,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Vodafone,Vodafone
-223,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 14 Plus,438,Apple,32,07-08-2023,Vodafone,Vodafone
 224,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 225,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 226,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31401,7 +31384,6 @@
 234,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 235,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 236,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
-237,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Vodafone,Vodafone
 238,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 239,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 240,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31415,7 +31397,6 @@
 248,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 249,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 250,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
-251,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Vodafone,Vodafone
 252,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Google Pixel 7,0,Google,32,07-08-2023,Vodafone,Vodafone
 253,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Google Pixel 7,0,Google,32,07-08-2023,Vodafone,Vodafone
 254,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Google Pixel 7,0,Google,32,07-08-2023,Vodafone,Vodafone
@@ -31429,7 +31410,6 @@
 262,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Google Pixel 7,0,Google,32,07-08-2023,Vodafone,Vodafone
 263,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Google Pixel 7,0,Google,32,07-08-2023,Vodafone,Vodafone
 264,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Google Pixel 7,120,Google,32,07-08-2023,Vodafone,Vodafone
-265,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Google Pixel 7,438,Google,32,07-08-2023,Vodafone,Vodafone
 266,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Google Pixel 6,0,Google,32,07-08-2023,Vodafone,Vodafone
 267,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Google Pixel 6,0,Google,32,07-08-2023,Vodafone,Vodafone
 268,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Google Pixel 6,0,Google,32,07-08-2023,Vodafone,Vodafone
@@ -31443,7 +31423,6 @@
 276,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Google Pixel 6,0,Google,32,07-08-2023,Vodafone,Vodafone
 277,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Google Pixel 6,0,Google,32,07-08-2023,Vodafone,Vodafone
 278,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Google Pixel 6,0,Google,32,07-08-2023,Vodafone,Vodafone
-279,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Google Pixel 6,0,Google,32,07-08-2023,Vodafone,Vodafone
 280,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy S22,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 281,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 282,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31457,7 +31436,6 @@
 290,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 291,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 292,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy S22,120,Samsung,32,07-08-2023,Vodafone,Vodafone
-293,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy S22,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 294,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy S23,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 295,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 296,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31471,7 +31449,6 @@
 304,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 305,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 306,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy S23,120,Samsung,32,07-08-2023,Vodafone,Vodafone
-307,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy S23,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 308,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung S21 FE,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 309,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung S21 FE,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 310,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung S21 FE,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31485,7 +31462,6 @@
 318,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung S21 FE,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 319,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung S21 FE,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 320,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung S21 FE,120,Samsung,32,07-08-2023,Vodafone,Vodafone
-321,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung S21 FE,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 322,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 14,0,Apple,32,07-08-2023,Vodafone,Vodafone
 323,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 14,0,Apple,32,07-08-2023,Vodafone,Vodafone
 324,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 14,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31499,7 +31475,6 @@
 332,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 14,0,Apple,32,07-08-2023,Vodafone,Vodafone
 333,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 14,0,Apple,32,07-08-2023,Vodafone,Vodafone
 334,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 14,0,Apple,32,07-08-2023,Vodafone,Vodafone
-335,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 14,438,Apple,32,07-08-2023,Vodafone,Vodafone
 336,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 13,0,Apple,32,07-08-2023,Vodafone,Vodafone
 337,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 13,0,Apple,32,07-08-2023,Vodafone,Vodafone
 338,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 13,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31513,7 +31488,6 @@
 346,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 13,0,Apple,32,07-08-2023,Vodafone,Vodafone
 347,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 13,0,Apple,32,07-08-2023,Vodafone,Vodafone
 348,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 13,0,Apple,32,07-08-2023,Vodafone,Vodafone
-349,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 13,438,Apple,32,07-08-2023,Vodafone,Vodafone
 350,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone 13 mini,0,Apple,32,07-08-2023,Vodafone,Vodafone
 351,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Vodafone,Vodafone
 352,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31527,7 +31501,6 @@
 360,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Vodafone,Vodafone
 361,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Vodafone,Vodafone
 362,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Vodafone,Vodafone
-363,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone 13 mini,438,Apple,32,07-08-2023,Vodafone,Vodafone
 364,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Google Pixel 7a,0,Google,32,07-08-2023,Vodafone,Vodafone
 365,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Google Pixel 7a,0,Google,32,07-08-2023,Vodafone,Vodafone
 366,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Google Pixel 7a,0,Google,32,07-08-2023,Vodafone,Vodafone
@@ -31541,7 +31514,6 @@
 374,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Google Pixel 7a,0,Google,32,07-08-2023,Vodafone,Vodafone
 375,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Google Pixel 7a,0,Google,32,07-08-2023,Vodafone,Vodafone
 376,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Google Pixel 7a,60,Google,32,07-08-2023,Vodafone,Vodafone
-377,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Google Pixel 7a,438,Google,32,07-08-2023,Vodafone,Vodafone
 378,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Google Pixel 6a,0,Google,32,07-08-2023,Vodafone,Vodafone
 379,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Google Pixel 6a,0,Google,32,07-08-2023,Vodafone,Vodafone
 380,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Google Pixel 6a,0,Google,32,07-08-2023,Vodafone,Vodafone
@@ -31555,7 +31527,6 @@
 388,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Google Pixel 6a,0,Google,32,07-08-2023,Vodafone,Vodafone
 389,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Google Pixel 6a,0,Google,32,07-08-2023,Vodafone,Vodafone
 390,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Google Pixel 6a,60,Google,32,07-08-2023,Vodafone,Vodafone
-391,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Google Pixel 6a,438,Google,32,07-08-2023,Vodafone,Vodafone
 392,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy A53,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 393,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 394,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31569,7 +31540,6 @@
 402,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 403,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 404,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Vodafone,Vodafone
-405,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 406,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy A54,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 407,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 408,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31583,7 +31553,6 @@
 416,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 417,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 418,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy A54,120,Samsung,32,07-08-2023,Vodafone,Vodafone
-419,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy A54,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 420,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Samsung Galaxy A34,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 421,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 422,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Vodafone,Vodafone
@@ -31597,7 +31566,6 @@
 430,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 431,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Vodafone,Vodafone
 432,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Vodafone,Vodafone
-433,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Samsung Galaxy A34,438,Samsung,32,07-08-2023,Vodafone,Vodafone
 434,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Apple iPhone SE3,0,Apple,32,07-08-2023,Vodafone,Vodafone
 435,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Apple iPhone SE3,0,Apple,32,07-08-2023,Vodafone,Vodafone
 436,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Apple iPhone SE3,0,Apple,32,07-08-2023,Vodafone,Vodafone
@@ -31611,7 +31579,6 @@
 444,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Apple iPhone SE3,0,Apple,32,07-08-2023,Vodafone,Vodafone
 445,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Apple iPhone SE3,0,Apple,32,07-08-2023,Vodafone,Vodafone
 446,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Apple iPhone SE3,0,Apple,32,07-08-2023,Vodafone,Vodafone
-447,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Apple iPhone SE3,438,Apple,32,07-08-2023,Vodafone,Vodafone
 448,New Line ,PayG Discount  128 GB,Sim - Free,Rate Plan Discount(Max),Oppo Reno 8,0,Oppo,32,07-08-2023,Vodafone,Vodafone
 449,New Line ,PayG Discount  128 GB,Sim - Free,Merchandise,Oppo Reno 8,0,Oppo,32,07-08-2023,Vodafone,Vodafone
 450,New Line ,PayG Discount  128 GB,Sim - Free,Gift Card,Oppo Reno 8,0,Oppo,32,07-08-2023,Vodafone,Vodafone
@@ -31625,7 +31592,6 @@
 458,New Line ,PayG Discount  128 GB,Unlimited Data,Free Subscription,Oppo Reno 8,0,Oppo,32,07-08-2023,Vodafone,Vodafone
 459,New Line ,PayG Discount  128 GB,Unlimited Data,Cashback,Oppo Reno 8,0,Oppo,32,07-08-2023,Vodafone,Vodafone
 460,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Bumpup,Oppo Reno 8,0,Oppo,32,07-08-2023,Vodafone,Vodafone
-461,New Line ,PayG Discount  128 GB,Unlimited Data,Tradein Exclusive,Oppo Reno 8,0,Oppo,32,07-08-2023,Vodafone,Vodafone
 462,NULL,NULL,Sim - Free,Device Cost Disc.,Google Pixel 7 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 463,NULL,NULL,Sim - Free,Unique Discount,Google Pixel 7 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 464,NULL,NULL,Sim - Free,Cashback,Google Pixel 7 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
@@ -31640,7 +31606,6 @@
 473,NULL,NULL,Unlimited Data,Free Subscription,Google Pixel 7 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 474,NULL,NULL,Unlimited Data,Gift Card,Google Pixel 7 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 475,NULL,NULL,Unlimited Data,Tradein Bumpup,Google Pixel 7 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
-476,NULL,NULL,Unlimited Data,Trade in Exclusive,Google Pixel 7 Pro,535,Google,32,07-08-2023,Deutsch,Deutsch
 477,NULL,NULL,Sim - Free,Device Cost Disc.,Google Pixel 6 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 478,NULL,NULL,Sim - Free,Unique Discount,Google Pixel 6 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 479,NULL,NULL,Sim - Free,Cashback,Google Pixel 6 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
@@ -31655,7 +31620,6 @@
 488,NULL,NULL,Unlimited Data,Free Subscription,Google Pixel 6 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 489,NULL,NULL,Unlimited Data,Gift Card,Google Pixel 6 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
 490,NULL,NULL,Unlimited Data,Tradein Bumpup,Google Pixel 6 Pro,0,Google,32,07-08-2023,Deutsch,Deutsch
-491,NULL,NULL,Unlimited Data,Trade in Exclusive,Google Pixel 6 Pro,535,Google,32,07-08-2023,Deutsch,Deutsch
 492,NULL,NULL,Sim - Free,Device Cost Disc.,Google Pixel Fold,0,Google,32,07-08-2023,Deutsch,Deutsch
 493,NULL,NULL,Sim - Free,Unique Discount,Google Pixel Fold,0,Google,32,07-08-2023,Deutsch,Deutsch
 494,NULL,NULL,Sim - Free,Cashback,Google Pixel Fold,0,Google,32,07-08-2023,Deutsch,Deutsch
@@ -31670,7 +31634,6 @@
 503,NULL,NULL,Unlimited Data,Free Subscription,Google Pixel Fold,60,Google,32,07-08-2023,Deutsch,Deutsch
 504,NULL,NULL,Unlimited Data,Gift Card,Google Pixel Fold,0,Google,32,07-08-2023,Deutsch,Deutsch
 505,NULL,NULL,Unlimited Data,Tradein Bumpup,Google Pixel Fold,0,Google,32,07-08-2023,Deutsch,Deutsch
-506,NULL,NULL,Unlimited Data,Trade in Exclusive,Google Pixel Fold,535,Google,32,07-08-2023,Deutsch,Deutsch
 507,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 508,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 509,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31685,7 +31648,6 @@
 518,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 519,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 520,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Fold5,150,Samsung,32,07-08-2023,Deutsch,Deutsch
-521,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 522,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 523,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 524,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31700,7 +31662,6 @@
 533,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 534,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 535,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Flip5,100,Samsung,32,07-08-2023,Deutsch,Deutsch
-536,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 537,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 538,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 539,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31715,7 +31676,6 @@
 548,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 549,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 550,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-551,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy Z Fold3,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 552,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 553,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 554,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31730,7 +31690,6 @@
 563,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 564,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 565,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-566,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy Z Fold4,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 567,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 568,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 569,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31745,7 +31704,6 @@
 578,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 579,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 580,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-581,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy Z Flip3,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 582,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 583,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 584,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31760,7 +31718,6 @@
 593,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 594,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 595,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-596,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy Z Flip4,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 597,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 598,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 599,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31775,7 +31732,6 @@
 608,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 609,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 610,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-611,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy S22 Ultra,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 612,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 613,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 614,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31790,7 +31746,6 @@
 623,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 624,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 625,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy S23 Ultra,150,Samsung,32,07-08-2023,Deutsch,Deutsch
-626,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy S23 Ultra,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 627,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 628,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 629,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31805,7 +31760,6 @@
 638,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 639,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 640,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-641,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy S22+,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 642,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 643,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 644,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31820,7 +31774,6 @@
 653,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 654,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 655,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-656,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy S23+,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 657,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 14 Pro Max,100,Apple,32,07-08-2023,Deutsch,Deutsch
 658,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
 659,NULL,NULL,Sim - Free,Cashback,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -31835,7 +31788,6 @@
 668,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
 669,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
 670,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 14 Pro Max,100,Apple,32,07-08-2023,Deutsch,Deutsch
-671,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 14 Pro Max,535,Apple,32,07-08-2023,Deutsch,Deutsch
 672,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 14 Pro,100,Apple,32,07-08-2023,Deutsch,Deutsch
 673,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
 674,NULL,NULL,Sim - Free,Cashback,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -31850,7 +31802,6 @@
 683,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
 684,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
 685,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 14 Pro,100,Apple,32,07-08-2023,Deutsch,Deutsch
-686,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 14 Pro,535,Apple,32,07-08-2023,Deutsch,Deutsch
 687,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 14 Plus,100,Apple,32,07-08-2023,Deutsch,Deutsch
 688,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Deutsch,Deutsch
 689,NULL,NULL,Sim - Free,Cashback,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -31865,7 +31816,6 @@
 698,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Deutsch,Deutsch
 699,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Deutsch,Deutsch
 700,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 14 Plus,100,Apple,32,07-08-2023,Deutsch,Deutsch
-701,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 14 Plus,535,Apple,32,07-08-2023,Deutsch,Deutsch
 702,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
 703,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
 704,NULL,NULL,Sim - Free,Cashback,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -31880,7 +31830,6 @@
 713,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
 714,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
 715,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Deutsch,Deutsch
-716,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 13 Pro Max,535,Apple,32,07-08-2023,Deutsch,Deutsch
 717,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
 718,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
 719,NULL,NULL,Sim - Free,Cashback,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -31895,7 +31844,6 @@
 728,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
 729,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
 730,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Deutsch,Deutsch
-731,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 13 Pro,535,Apple,32,07-08-2023,Deutsch,Deutsch
 732,NULL,NULL,Sim - Free,Device Cost Disc.,Google Pixel 7,0,Google,32,07-08-2023,Deutsch,Deutsch
 733,NULL,NULL,Sim - Free,Unique Discount,Google Pixel 7,0,Google,32,07-08-2023,Deutsch,Deutsch
 734,NULL,NULL,Sim - Free,Cashback,Google Pixel 7,0,Google,32,07-08-2023,Deutsch,Deutsch
@@ -31910,7 +31858,6 @@
 743,NULL,NULL,Unlimited Data,Free Subscription,Google Pixel 7,0,Google,32,07-08-2023,Deutsch,Deutsch
 744,NULL,NULL,Unlimited Data,Gift Card,Google Pixel 7,0,Google,32,07-08-2023,Deutsch,Deutsch
 745,NULL,NULL,Unlimited Data,Tradein Bumpup,Google Pixel 7,100,Google,32,07-08-2023,Deutsch,Deutsch
-746,NULL,NULL,Unlimited Data,Trade in Exclusive,Google Pixel 7,535,Google,32,07-08-2023,Deutsch,Deutsch
 747,NULL,NULL,Sim - Free,Device Cost Disc.,Google Pixel 6,0,Google,32,07-08-2023,Deutsch,Deutsch
 748,NULL,NULL,Sim - Free,Unique Discount,Google Pixel 6,0,Google,32,07-08-2023,Deutsch,Deutsch
 749,NULL,NULL,Sim - Free,Cashback,Google Pixel 6,0,Google,32,07-08-2023,Deutsch,Deutsch
@@ -31925,7 +31872,6 @@
 758,NULL,NULL,Unlimited Data,Free Subscription,Google Pixel 6,0,Google,32,07-08-2023,Deutsch,Deutsch
 759,NULL,NULL,Unlimited Data,Gift Card,Google Pixel 6,0,Google,32,07-08-2023,Deutsch,Deutsch
 760,NULL,NULL,Unlimited Data,Tradein Bumpup,Google Pixel 6,0,Google,32,07-08-2023,Deutsch,Deutsch
-761,NULL,NULL,Unlimited Data,Trade in Exclusive,Google Pixel 6,535,Google,32,07-08-2023,Deutsch,Deutsch
 762,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 763,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 764,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31940,7 +31886,6 @@
 773,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 774,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 775,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-776,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy S22,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 777,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 778,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 779,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31955,7 +31900,6 @@
 788,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 789,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 790,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy S23,100,Samsung,32,07-08-2023,Deutsch,Deutsch
-791,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy S23,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 792,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung S21 FE,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 793,NULL,NULL,Sim - Free,Unique Discount,Samsung S21 FE,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 794,NULL,NULL,Sim - Free,Cashback,Samsung S21 FE,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -31970,7 +31914,6 @@
 803,NULL,NULL,Unlimited Data,Free Subscription,Samsung S21 FE,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 804,NULL,NULL,Unlimited Data,Gift Card,Samsung S21 FE,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 805,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung S21 FE,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-806,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung S21 FE,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 807,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 14,100,Apple,32,07-08-2023,Deutsch,Deutsch
 808,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 14,0,Apple,32,07-08-2023,Deutsch,Deutsch
 809,NULL,NULL,Sim - Free,Cashback,Apple iPhone 14,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -31985,7 +31928,6 @@
 818,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 14,0,Apple,32,07-08-2023,Deutsch,Deutsch
 819,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 14,0,Apple,32,07-08-2023,Deutsch,Deutsch
 820,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 14,100,Apple,32,07-08-2023,Deutsch,Deutsch
-821,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 14,535,Apple,32,07-08-2023,Deutsch,Deutsch
 822,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 13,50,Apple,32,07-08-2023,Deutsch,Deutsch
 823,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 13,0,Apple,32,07-08-2023,Deutsch,Deutsch
 824,NULL,NULL,Sim - Free,Cashback,Apple iPhone 13,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -32000,7 +31942,6 @@
 833,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 13,0,Apple,32,07-08-2023,Deutsch,Deutsch
 834,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 13,0,Apple,32,07-08-2023,Deutsch,Deutsch
 835,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 13,100,Apple,32,07-08-2023,Deutsch,Deutsch
-836,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 13,535,Apple,32,07-08-2023,Deutsch,Deutsch
 837,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone 13 mini,50,Apple,32,07-08-2023,Deutsch,Deutsch
 838,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Deutsch,Deutsch
 839,NULL,NULL,Sim - Free,Cashback,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -32015,7 +31956,6 @@
 848,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Deutsch,Deutsch
 849,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Deutsch,Deutsch
 850,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone 13 mini,100,Apple,32,07-08-2023,Deutsch,Deutsch
-851,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone 13 mini,535,Apple,32,07-08-2023,Deutsch,Deutsch
 852,NULL,NULL,Sim - Free,Device Cost Disc.,Google Pixel 7a,0,Google,32,07-08-2023,Deutsch,Deutsch
 853,NULL,NULL,Sim - Free,Unique Discount,Google Pixel 7a,0,Google,32,07-08-2023,Deutsch,Deutsch
 854,NULL,NULL,Sim - Free,Cashback,Google Pixel 7a,0,Google,32,07-08-2023,Deutsch,Deutsch
@@ -32030,7 +31970,6 @@
 863,NULL,NULL,Unlimited Data,Free Subscription,Google Pixel 7a,0,Google,32,07-08-2023,Deutsch,Deutsch
 864,NULL,NULL,Unlimited Data,Gift Card,Google Pixel 7a,0,Google,32,07-08-2023,Deutsch,Deutsch
 865,NULL,NULL,Unlimited Data,Tradein Bumpup,Google Pixel 7a,100,Google,32,07-08-2023,Deutsch,Deutsch
-866,NULL,NULL,Unlimited Data,Trade in Exclusive,Google Pixel 7a,535,Google,32,07-08-2023,Deutsch,Deutsch
 867,NULL,NULL,Sim - Free,Device Cost Disc.,Google Pixel 6a,0,Google,32,07-08-2023,Deutsch,Deutsch
 868,NULL,NULL,Sim - Free,Unique Discount,Google Pixel 6a,0,Google,32,07-08-2023,Deutsch,Deutsch
 869,NULL,NULL,Sim - Free,Cashback,Google Pixel 6a,0,Google,32,07-08-2023,Deutsch,Deutsch
@@ -32045,7 +31984,6 @@
 878,NULL,NULL,Unlimited Data,Free Subscription,Google Pixel 6a,0,Google,32,07-08-2023,Deutsch,Deutsch
 879,NULL,NULL,Unlimited Data,Gift Card,Google Pixel 6a,0,Google,32,07-08-2023,Deutsch,Deutsch
 880,NULL,NULL,Unlimited Data,Tradein Bumpup,Google Pixel 6a,0,Google,32,07-08-2023,Deutsch,Deutsch
-881,NULL,NULL,Unlimited Data,Trade in Exclusive,Google Pixel 6a,535,Google,32,07-08-2023,Deutsch,Deutsch
 882,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 883,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 884,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -32060,7 +31998,6 @@
 893,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 894,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 895,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-896,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy A53,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 897,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 898,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 899,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -32075,7 +32012,6 @@
 908,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 909,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 910,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-911,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy A54,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 912,NULL,NULL,Sim - Free,Device Cost Disc.,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 913,NULL,NULL,Sim - Free,Unique Discount,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 914,NULL,NULL,Sim - Free,Cashback,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Deutsch,Deutsch
@@ -32090,7 +32026,6 @@
 923,NULL,NULL,Unlimited Data,Free Subscription,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 924,NULL,NULL,Unlimited Data,Gift Card,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Deutsch,Deutsch
 925,NULL,NULL,Unlimited Data,Tradein Bumpup,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Deutsch,Deutsch
-926,NULL,NULL,Unlimited Data,Trade in Exclusive,Samsung Galaxy A34,535,Samsung,32,07-08-2023,Deutsch,Deutsch
 927,NULL,NULL,Sim - Free,Device Cost Disc.,Apple iPhone SE3,0,Apple,32,07-08-2023,Deutsch,Deutsch
 928,NULL,NULL,Sim - Free,Unique Discount,Apple iPhone SE3,0,Apple,32,07-08-2023,Deutsch,Deutsch
 929,NULL,NULL,Sim - Free,Cashback,Apple iPhone SE3,0,Apple,32,07-08-2023,Deutsch,Deutsch
@@ -32105,7 +32040,6 @@
 938,NULL,NULL,Unlimited Data,Free Subscription,Apple iPhone SE3,0,Apple,32,07-08-2023,Deutsch,Deutsch
 939,NULL,NULL,Unlimited Data,Gift Card,Apple iPhone SE3,0,Apple,32,07-08-2023,Deutsch,Deutsch
 940,NULL,NULL,Unlimited Data,Tradein Bumpup,Apple iPhone SE3,0,Apple,32,07-08-2023,Deutsch,Deutsch
-941,NULL,NULL,Unlimited Data,Trade in Exclusive,Apple iPhone SE3,535,Apple,32,07-08-2023,Deutsch,Deutsch
 942,NULL,NULL,Sim - Free,Device Cost Disc.,Oppo Reno 8,0,Oppo,32,07-08-2023,Deutsch,Deutsch
 943,NULL,NULL,Sim - Free,Unique Discount,Oppo Reno 8,0,Oppo,32,07-08-2023,Deutsch,Deutsch
 944,NULL,NULL,Sim - Free,Cashback,Oppo Reno 8,0,Oppo,32,07-08-2023,Deutsch,Deutsch
@@ -32120,14 +32054,12 @@
 953,NULL,NULL,Unlimited Data,Free Subscription,Oppo Reno 8,0,Oppo,32,07-08-2023,Deutsch,Deutsch
 954,NULL,NULL,Unlimited Data,Gift Card,Oppo Reno 8,0,Oppo,32,07-08-2023,Deutsch,Deutsch
 955,NULL,NULL,Unlimited Data,Tradein Bumpup,Oppo Reno 8,0,Oppo,32,07-08-2023,Deutsch,Deutsch
-956,NULL,NULL,Unlimited Data,Trade in Exclusive,Oppo Reno 8,0,Oppo,32,07-08-2023,Deutsch,Deutsch
 957,Smartphones without Contract,NULL,NULL,Device Cost Disc.,Google Pixel 7 Pro,130,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 958,Smartphones without Contract,NULL,NULL,Bundle Deal,Google Pixel 7 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 959,Smartphones without Contract,NULL,NULL,Free Subscription,Google Pixel 7 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 960,Smartphones without Contract,NULL,NULL,CashBack,Google Pixel 7 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 961,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 7 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 962,Smartphones without Contract,NULL,NULL,TradeIn,Google Pixel 7 Pro,100,Google,32,07-08-2023,Mediamarkt,Mediamarkt
-963,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Google Pixel 7 Pro,535,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 964,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 7 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 965,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 7 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 966,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 7 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32146,7 +32078,6 @@
 979,Smartphones without Contract,NULL,NULL,CashBack,Google Pixel 6 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 980,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 6 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 981,Smartphones without Contract,NULL,NULL,TradeIn,Google Pixel 6 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
-982,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Google Pixel 6 Pro,535,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 983,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 6 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 984,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 6 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 985,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 6 Pro,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32165,7 +32096,6 @@
 998,Smartphones without Contract,NULL,NULL,CashBack,Google Pixel Fold,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 999,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel Fold,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1000,Smartphones without Contract,NULL,NULL,TradeIn,Google Pixel Fold,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
-1001,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Google Pixel Fold,535,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1002,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel Fold,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1003,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel Fold,429,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1004,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel Fold,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32184,7 +32114,6 @@
 1017,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1018,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1019,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy Z Fold5,100,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1020,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1021,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1022,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1023,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Fold5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32203,7 +32132,6 @@
 1036,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1037,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1038,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy Z Flip5,100,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1039,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1040,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1041,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1042,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Flip5,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32222,7 +32150,6 @@
 1055,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1056,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1057,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1058,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Fold3,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1059,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1060,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1061,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Fold3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32241,7 +32168,6 @@
 1074,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1075,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1076,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1077,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Fold4,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1078,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1079,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1080,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Fold4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32260,7 +32186,6 @@
 1093,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1094,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1095,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1096,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Flip3,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1097,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1098,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1099,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Flip3,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32279,7 +32204,6 @@
 1112,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1113,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1114,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1115,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy Z Flip4,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1116,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1117,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1118,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy Z Flip4,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32298,7 +32222,6 @@
 1131,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1132,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1133,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1134,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22 Ultra,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1135,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1136,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1137,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S22 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32317,7 +32240,6 @@
 1150,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1151,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1152,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1153,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23 Ultra,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1154,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1155,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1156,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S23 Ultra,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32336,7 +32258,6 @@
 1169,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1170,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1171,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1172,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22+,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1173,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1174,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1175,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S22+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32355,7 +32276,6 @@
 1188,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1189,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1190,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1191,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23+,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1192,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1193,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1194,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S23+,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32374,7 +32294,6 @@
 1207,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1208,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1209,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1210,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Pro Max,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1211,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1212,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1213,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32393,7 +32312,6 @@
 1226,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1227,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1228,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1229,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Pro,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1230,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1231,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1232,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32412,7 +32330,6 @@
 1245,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1246,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1247,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1248,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 14 Plus,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1249,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1250,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1251,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14 Plus,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32431,7 +32348,6 @@
 1264,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1265,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1266,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1267,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 13 Pro Max,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1268,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1269,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1270,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13 Pro Max,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32450,7 +32366,6 @@
 1283,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1284,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1285,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1286,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 13 Pro,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1287,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1288,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1289,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13 Pro,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32469,7 +32384,6 @@
 1302,Smartphones without Contract,NULL,NULL,CashBack,Google Pixel 7,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1303,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 7,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1304,Smartphones without Contract,NULL,NULL,TradeIn,Google Pixel 7,100,Google,32,07-08-2023,Mediamarkt,Mediamarkt
-1305,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Google Pixel 7,535,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1306,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 7,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1307,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 7,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1308,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 7,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32488,7 +32402,6 @@
 1321,Smartphones without Contract,NULL,NULL,CashBack,Google Pixel 6,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1322,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 6,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1323,Smartphones without Contract,NULL,NULL,TradeIn,Google Pixel 6,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
-1324,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Google Pixel 6,535,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1325,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 6,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1326,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 6,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1327,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 6,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32507,7 +32420,6 @@
 1340,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1341,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1342,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1343,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy S22,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1344,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1345,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1346,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S22,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32526,7 +32438,6 @@
 1359,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1360,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1361,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1362,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy S23,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1363,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1364,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1365,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy S23,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32545,7 +32456,6 @@
 1378,Smartphones without Contract,NULL,NULL,CashBack,Samsung S21 FE,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1379,Smartphones without Contract,NULL,NULL,Gift Card,Samsung S21 FE,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1380,Smartphones without Contract,NULL,NULL,TradeIn,Samsung S21 FE,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1381,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung S21 FE,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1382,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung S21 FE,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1383,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung S21 FE,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1384,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung S21 FE,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32564,7 +32474,6 @@
 1397,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 14,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1398,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 14,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1399,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 14,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1400,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 14,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1401,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 14,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1402,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 14,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1403,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 14,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32583,7 +32492,6 @@
 1416,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 13,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1417,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1418,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 13,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1419,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 13,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1420,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1421,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1422,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32602,7 +32510,6 @@
 1435,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1436,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1437,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1438,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone 13 mini,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1439,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1440,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1441,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone 13 mini,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32621,7 +32528,6 @@
 1454,Smartphones without Contract,NULL,NULL,CashBack,Google Pixel 7a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1455,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 7a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1456,Smartphones without Contract,NULL,NULL,TradeIn,Google Pixel 7a,100,Google,32,07-08-2023,Mediamarkt,Mediamarkt
-1457,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Google Pixel 7a,535,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1458,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 7a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1459,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 7a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1460,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 7a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32640,7 +32546,6 @@
 1473,Smartphones without Contract,NULL,NULL,CashBack,Google Pixel 6a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1474,Smartphones without Contract,NULL,NULL,Gift Card,Google Pixel 6a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1475,Smartphones without Contract,NULL,NULL,TradeIn,Google Pixel 6a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
-1476,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Google Pixel 6a,535,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1477,Smartphones with contract,NULL,Vodafone,Free Merchandise,Google Pixel 6a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1478,Smartphones with contract,NULL,Vodafone,Bundle Deal,Google Pixel 6a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
 1479,Smartphones with contract,NULL,Vodafone,Free Subscription,Google Pixel 6a,0,Google,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32659,7 +32564,6 @@
 1492,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1493,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1494,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1495,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy A53,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1496,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1497,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1498,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy A53,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32678,7 +32582,6 @@
 1511,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1512,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1513,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1514,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy A54,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1515,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1516,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1517,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy A54,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32697,7 +32600,6 @@
 1530,Smartphones without Contract,NULL,NULL,CashBack,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1531,Smartphones without Contract,NULL,NULL,Gift Card,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1532,Smartphones without Contract,NULL,NULL,TradeIn,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
-1533,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Samsung Galaxy A34,535,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1534,Smartphones with contract,NULL,Vodafone,Free Merchandise,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1535,Smartphones with contract,NULL,Vodafone,Bundle Deal,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
 1536,Smartphones with contract,NULL,Vodafone,Free Subscription,Samsung Galaxy A34,0,Samsung,32,07-08-2023,Mediamarkt,Mediamarkt
@@ -32716,7 +32618,6 @@
 1549,Smartphones without Contract,NULL,NULL,CashBack,Apple iPhone SE3,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1550,Smartphones without Contract,NULL,NULL,Gift Card,Apple iPhone SE3,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1551,Smartphones without Contract,NULL,NULL,TradeIn,Apple iPhone SE3,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
-1552,Smartphones without Contract,NULL,NULL,Trade in Exclusive,Apple iPhone SE3,535,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1553,Smartphones with contract,NULL,Vodafone,Free Merchandise,Apple iPhone SE3,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1554,Smartphones with contract,NULL,Vodafone,Bundle Deal,Apple iPhone SE3,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
 1555,Smartphones with contract,NULL,Vodafone,Free Subscription,Apple iPhone SE3,0,Apple,32,07-08-2023,Mediamarkt,Mediamarkt
